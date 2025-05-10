@@ -1,0 +1,9 @@
+{
+  "ROWS": 30,
+  "SEATS_PER_ROW": 6,
+  "SEAT_SIZE": 0.5,
+  "AISLE_WIDTH": 1,
+  "ROW_SPACING": 1,
+  "PASSENGER_SIZE": 0.3,
+  "ANIMATION_SPEED": 0.02
+}
